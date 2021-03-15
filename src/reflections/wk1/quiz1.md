@@ -1,22 +1,19 @@
 # Foundations of Web Development
 
 **1.** In the terminal, what is the command `cd` used for?
-Change Directory 
-
+>Change Directory
 
 **2.** In the terminal, what is the command `mkdir` used for?
-Make Directory 
-
-
+>Make Directory 
 
 **3.** What is the `\<html>\</html>` tag in a document?
-
+>.
 
 **4.** What does `HTML` stand for?
-Hyper Text Markup Language
+>Hyper Text Markup Language
 
 **5.** What Does `CSS` stand for?
-Casscading Style Sheets
+>Casscading Style Sheets
 
 
 
