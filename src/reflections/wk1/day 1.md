@@ -20,5 +20,3 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
  
  github is just a cloud that we save our changes 
 
-
-Complete Week 1 Vocabulary
