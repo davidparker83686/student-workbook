@@ -31,13 +31,13 @@
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+<b></b>
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+<body></body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -55,5 +55,5 @@
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height and width
 ```

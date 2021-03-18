@@ -1,3 +1,5 @@
+# Day 4-
+
 ## Daily Journal
 Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
 What is the purpose of wire-framing?
