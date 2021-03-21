@@ -50,7 +50,7 @@ Properties and Values
 
 **10.** Define the display `:flex property:`
 ```
-
+It answers the question of what happens to the EXTRA space  for our elements or what happens when there ISNT ENOUGH space for our elements.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
