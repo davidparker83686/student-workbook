@@ -14,8 +14,7 @@ The Subscribe, The Unsubscribe, and The Broadcast Method
 
 ### Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 ```
-
-
+The use of proxy allows us to mess with the appstate in the service part of our template. the observer waits for changes to excute on our object then preforms an action, in our case its been draw() resulting in a change to our dom.
 ```
 
 
