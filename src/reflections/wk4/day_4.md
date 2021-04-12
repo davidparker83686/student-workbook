@@ -17,6 +17,7 @@ Stateless means the server does not remember anything about the user who uses th
 ```
 ## What URL pattern is used when writing a RESTful API?
 ```
+An identifier for the resource and The operation you want the server to perform on that resource
 ```
 ITUNES
 https://davidparker83686.github.io/i-tunes/

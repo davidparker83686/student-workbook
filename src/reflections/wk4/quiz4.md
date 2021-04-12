@@ -23,12 +23,13 @@ A function that uses another function as an argument.
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+a guarantee that we are going to do something in the future.
+by using try catch
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
- 
+ Get, Post, Put
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->

@@ -5,7 +5,7 @@ Read Asynchronous Code > Callback Hell and answer the following questions
 
 ## What are some of the signs and causes of Callback Hell?
 ```
-Don't nest functions.
+Nested functions and asynchronus code that take a while to load and can crash if one part of that code comes back with an error
 ```
 ## What does the asynchronous mean and how are callbacks involved?
 ```
