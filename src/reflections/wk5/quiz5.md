@@ -54,7 +54,8 @@ let Schema = ________.Schema;
 
 <!-- enter you answer in the space below -->
 
-```
+mongoose, mongoose
+mongoose.
 
 ```
 
@@ -63,7 +64,9 @@ let Schema = ________.Schema;
 <!-- enter you answer in the space below -->
 
 ```
+
 are functions which are passed control during execution of asynchronous functions.
+
 ```
 
 **8.** The **\_\_** pipeline delivers information from the client while the **\_\_** pipeline returns it. Fill in the blanks.
@@ -71,6 +74,8 @@ are functions which are passed control during execution of asynchronous function
 <!-- enter you answer in the space below -->
 
 ```
+
+request and response
 
 ```
 
@@ -80,6 +85,9 @@ Demonstrate the pattern that is used to include a request query with the client'
 <!-- enter you answer in the space below -->
 
 ```
+
 ?tag=winter
+
+```
 
 ```

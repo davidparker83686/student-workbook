@@ -11,7 +11,7 @@ Property that isnt in the DB
 ## When might you use a virtual property?
 
 ```
-
+when your needing to display a property that doesnt need to be edited
 ```
 
 ## How do you search by a virtual properties value?
