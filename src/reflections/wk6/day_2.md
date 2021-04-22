@@ -15,7 +15,7 @@ For displaying data that needs to be injected into a template.
 
 ## Where can props be used or accessed?
 ```
-In our HTML portions of the pages folder. 
+In our HTML portions of the pages.vue. 
 ```
 
 
