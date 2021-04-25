@@ -15,7 +15,8 @@ Sweet alerts for successful or failed attempts
 
 ## What are mounting hooks? When might you use them?
 ```
-
+When your component is added to the DOM.
+I would use it to add compents to my DOM things like posts, pictures, items for purchase, etc. anything that would want to use template.
 ```
 
 AFTERNOON CHALLENGE-https://davidparker83686.github.io/spring21-vue-gregslist/
