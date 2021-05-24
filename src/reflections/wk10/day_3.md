@@ -8,12 +8,12 @@ Enums are lists of strongly typed constants with members that are symbolic names
 ```
 ## How can you modify an Enum?
 ```
-
+ALTER MODIFY command
 ```
 
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 ```
-
+I have yet and to be honest I still dont understand C# and Enums well endought to know when to use that. 
 ```
 
 AFTERNOON PROJECT - https://davidparker83686.github.io/AKnightsTale/

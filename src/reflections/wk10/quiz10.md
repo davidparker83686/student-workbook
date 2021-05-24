@@ -9,12 +9,12 @@ A root all your files in your C# project
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
-
+Structs are value types while classes are reference types.
 ```
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-
+void
 ```
 ## Example 1
 ```c#
@@ -40,12 +40,12 @@ data type
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+Abstraction in C# is the process to hide the internal details and showing only the functionality. The abstract modifier indicates the incomplete implementation.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+modify a method, property, indexer, or event declaration and allow for it to be overridden in a derived class.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
